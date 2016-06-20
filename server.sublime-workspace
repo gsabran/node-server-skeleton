@@ -1,0 +1,1194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"serve",
+				"serverIp"
+			],
+			[
+				"brnach",
+				"branchName"
+			],
+			[
+				"back",
+				"backup"
+			],
+			[
+				"C",
+				"ContainerComponent"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"ign",
+				"ignoredErrors"
+			],
+			[
+				"ch",
+				"channelName"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"_",
+				"_vanityName"
+			],
+			[
+				"vani",
+				"vanityName"
+			],
+			[
+				"get",
+				"getVanityName"
+			],
+			[
+				"se",
+				"secondLetter"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"com",
+				"comparisonArray"
+			],
+			[
+				"ne",
+				"newInformation"
+			],
+			[
+				"pr",
+				"processOnePair"
+			],
+			[
+				"account",
+				"accounts-password"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"vide",
+				"video"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"vali",
+				"validateEmail"
+			],
+			[
+				"file",
+				"fieldName"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"ema",
+				"emailAddress"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"on",
+				"onError"
+			],
+			[
+				"def",
+				"defaultEmail"
+			],
+			[
+				"pro",
+				"props	React: this.props."
+			],
+			[
+				"si",
+				"signupFields"
+			],
+			[
+				"onC",
+				"onClick"
+			],
+			[
+				"termsA",
+				"termsAndConditions"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"Pr",
+				"PropTypes"
+			],
+			[
+				"log",
+				"logOut"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Si",
+				"SignupConfirmations"
+			],
+			[
+				"curre",
+				"currentUser"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"act",
+				"actionQueue"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"Re",
+				"RepostHeader"
+			],
+			[
+				"str",
+				"stringNotEmpty"
+			],
+			[
+				"userPr",
+				"userProfile"
+			],
+			[
+				"Co",
+				"Collections"
+			],
+			[
+				"own",
+				"owner_data"
+			],
+			[
+				"glo",
+				"glob"
+			],
+			[
+				"new",
+				"newReply"
+			],
+			[
+				"un",
+				"unlikeComment"
+			],
+			[
+				"lik",
+				"likeComment"
+			],
+			[
+				"delete",
+				"deleteComment"
+			],
+			[
+				"progress",
+				"progressCallback"
+			],
+			[
+				"owner",
+				"owner_id"
+			],
+			[
+				"fie",
+				"fieldName"
+			],
+			[
+				"o",
+				"origin"
+			],
+			[
+				"cli",
+				"clipId"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"thu",
+				"thumbnail"
+			],
+			[
+				"sche",
+				"scheduledAt"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"ow",
+				"owner_id"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"props",
+				"propsDiff"
+			],
+			[
+				"star",
+				"startRenderTime"
+			],
+			[
+				"fu",
+				"fullLogs"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"deb",
+				"debugCountT"
+			],
+			[
+				"_l",
+				"_loginButtonsSession"
+			],
+			[
+				"lo",
+				"loginButtonsSession"
+			],
+			[
+				"sha",
+				"showWaitlisted"
+			],
+			[
+				"Us",
+				"UserProfile"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"flo",
+				"FlowRouter"
+			],
+			[
+				"ke",
+				"keyName"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"att",
+				"attributeLocations"
+			],
+			[
+				"web",
+				"webgl-util"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"defa",
+				"defaultColorMatrix"
+			],
+			[
+				"mat",
+				"mat4"
+			],
+			[
+				"colo",
+				"colorMatrix"
+			],
+			[
+				"clip",
+				"clipsWrapper"
+			],
+			[
+				"curve",
+				"curves"
+			],
+			[
+				"compo",
+				"componentDidUpdate"
+			],
+			[
+				"cu",
+				"currentColor"
+			],
+			[
+				"cur",
+				"curves"
+			],
+			[
+				"appl",
+				"applyFilter"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"A",
+				"ADD_FILTER"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"set",
+				"setThumbnail"
+			],
+			[
+				"repo",
+				"reportWarning"
+			],
+			[
+				"Vide",
+				"VideoPlayer"
+			],
+			[
+				"filter",
+				"filterId"
+			],
+			[
+				"img",
+				"imgData"
+			],
+			[
+				"gre",
+				"greyscale"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"_th",
+				"_thumbnail"
+			],
+			[
+				"canvas",
+				"canvasFilters"
+			],
+			[
+				"update",
+				"updateVideo"
+			],
+			[
+				"change",
+				"changeFilter"
+			],
+			[
+				"start",
+				"startOffset"
+			],
+			[
+				"rem",
+				"removeText"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"tri",
+				"triggerReorderMode"
+			],
+			[
+				"canc",
+				"cancelRequest"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"id",
+				"idx"
+			],
+			[
+				"video",
+				"videoPlayer"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"fact",
+				"factors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.sublime-project",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "eslin",
+		"selected_items":
+		[
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jaca",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove re",
+				"Package Control: Remove Repository"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"remo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"js",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"vim",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vin",
+				"Vintageous: Reset"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/guigou/Papero/Code/projects/surprise-project-server"
+	],
+	"file_history":
+	[
+		"/Users/guigou/Papero/Code/projects/surprise-project-server/.babelrc",
+		"/Users/guigou/Papero/Code/projects/surprise-project-server/.eslintrc.js",
+		"/Users/guigou/Papero/Code/projects/surprise-project-server/index.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/index.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/index.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-view/routes.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/shared/constants.js",
+		"/Users/guigou/Papero/Code/metta/www/settings.json",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/video-reprocess.js",
+		"/Users/guigou/Papero/Code/metta/www/.meteor/release",
+		"/Users/guigou/Papero/Code/metta/www/.meteor/versions",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/mup.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/router.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/video-processor-router.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/video-uploads/controller.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/styles/upload-status-bar.import.less",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/Gruntfile.js",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/RemoteGruntfile.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/components/Home.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/components/FeaturedVideos.jsx",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/relayServerSetup.sh",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/remote_deployement.sh",
+		"/Users/guigou/Downloads/tmp.sh",
+		"/Users/guigou/Downloads/tmp2.sh",
+		"/Users/guigou/Papero/Code/metta/www/.deploy/setUpRemoteDevMachine.sh",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/containers/SignupConfirmations.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/helpers/accounts-base.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-miscelanous/components/SocialSharing.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/containers/FeaturedVideos.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/actions/actions.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/utils.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/components/SignupConfirmations.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-upload/video-upload-helpers.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/index.js",
+		"/Users/guigou/Papero/Code/metta/www/src/shared/methods.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/redirect.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/lib/analytics.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/coding-challenge.js",
+		"/Users/guigou/Papero/Code/metta/www/.meteor/packages",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/video-remerge.js",
+		"/Users/guigou/Papero/Code/metta/www/.babelrc",
+		"/Users/guigou/Papero/Code/metta/www/server/apis/coding-challenge.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/video-uploads/methods.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/video-uploads/upload-helpers.js",
+		"/Users/guigou/Papero/Code/metta/www/.useful-scripts/import-db.sh",
+		"/Users/guigou/.bashrc",
+		"/Users/guigou/Papero/Code/metta/www/packages/Filters/client.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/components/Signup.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-view/styles/video-embedded.import.less",
+		"/Users/guigou/Downloads/tmp.html",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/helpers/auth-callbacks.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/composer.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/containers/Signup.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/containers/MainLayout.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/errorReporter.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/analytics.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/router.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/monitor-video-server.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/tasks/recentNotifications.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/emails/notificationsEmail.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/emails/mergedStyle.css",
+		"/Users/guigou/Papero/Code/metta/www/src/server/emails/mergeStyle.css",
+		"/Users/guigou/Papero/Code/metta/www/public/css/mergedStyle.css",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-view/styles/video-main.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-player/containers/VideoControls.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit-mobile/video-edit-mobile.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-player/components/VideoControls.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/config/contextTypes.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-player/VideoPlayer.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-player/video-player.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-miscelanous/components/VideoPreview.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/edit-clips/EditClips.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/apis/api.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/360/player/lib/webgl-util.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/edit-clips/TrimTimeline.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/360/webgl-utils/index.js",
+		"/Users/guigou/Papero/Code/metta/www/package.json",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/components/FollowUser.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/publish.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/stylesheets/sites/style.default.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/components/UserPreview.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/stylesheets/vendors/lesshat/mixins.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/components/ContactUs.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-feeds/MapFeed.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/Footer.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/footer.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/edit-clips/edit-helpers.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/edit-clips/trim-timeline.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/server/video-server/requests.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/edit-clips/ClipsPreview.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/shared/upload-methods.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/360/player/video-player/ogv/ogv-player.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/containers/ContactUs.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/routes.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/ContactUs.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/console.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/socketManager.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/authentification/actions/authentificationReducer.js",
+		"/Users/guigou/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/guigou/Papero/Code/metta/www/src/server/methods.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/components/Header.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/account.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-player/VideoControls.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/360/player/video-player/video-controls.js",
+		"/Users/guigou/Papero/Code/metta/www/src/shared/lib/message-slack.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/store.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/components/MainLayout.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/lib/intercom.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-upload/Upload.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-upload/video-upload.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/styles/featured-videos.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/server/errorReporter.js",
+		"/Users/guigou/Papero/Code/metta/www/src/server/lib/index-collections.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/styles/home.import.less",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/static/containers/Home.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/server/lib/utils.js",
+		"/Users/guigou/Papero/Code/metta/www/src/shared/utils.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/routes.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/components/EditUserData.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/components/UserProfile.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/containers/UserPreviewContainer.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/creator/containers/UserProfile.jsx",
+		"/Users/guigou/Downloads/tmp.js",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit-mobile/MobileVideoEdit.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/components/EditMetadata.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-edit/components/VideoEdit.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/layout/components/EmbeddedLayout.jsx",
+		"/Users/guigou/Papero/Code/metta/www/src/client/modules/video-view/components/VideoEmbedded.jsx"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/guigou/Papero/Code/metta/www/packages/webgl-utils",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//cdnPrefix: '//cdn.mettavr.com'",
+			"push_embed",
+			"from",
+			"ROOT_URL",
+			"IS_EMBEDDED",
+			"process.env.IS_EMBEDDED",
+			"IS_EMBEDDED",
+			"Meteor.settings",
+			"IS_EMBEDDED",
+			".remaining",
+			"?cache=1",
+			"serverIp",
+			"filterAuxServerResponse",
+			"videoIsMerged",
+			"filterAuxServerResponse",
+			"videoIsMerged",
+			"serverIp",
+			"videoIsMerged",
+			"serverIp",
+			"reprocessVideo",
+			"console.log('reproce",
+			"reprocessVideo",
+			"host",
+			"',",
+			"reprocessing video",
+			"Exception in setTimeout callback:",
+			"renderEmbeded",
+			"embed",
+			"push_embed",
+			"remoteGruntCommandName",
+			"tasks",
+			"ROOT_URL",
+			"process.env.IS_EMBEDDED",
+			"webpack-staging",
+			"54.174.126.212",
+			"remote_push_embed",
+			"runPushTask",
+			",",
+			"remote_push_staging",
+			"remote_push_master",
+			"push_github_prod_master",
+			"remote_push_master",
+			"deployement",
+			"WITH_BACKUP",
+			"#!/bin/bash\nGUI_A_RANGE_SA_CHAMBRE=false\nif [ GUI_A_RANGE_SA_CHAMBRE ]\n  then\n    echo \"Gui tu es le meilleur!\"\nfi\n",
+			"WITH_BACKUP",
+			"master",
+			"prod_embed",
+			"staging",
+			"main",
+			"IS_MASTER_NODE",
+			"staging",
+			"NODE_ENV",
+			"registerAuthCallbacks",
+			"getCurrentUserFieldValue",
+			"utils",
+			".split('.')",
+			"accountsFieldDescriptions",
+			"cancelRequest",
+			"deleteCLip",
+			"server_and_client/lib/collections.js",
+			"./router.js",
+			"Analytics",
+			"analytics",
+			"Analytics",
+			"analytics",
+			"Analytics",
+			"client/lib/analytics.jsx",
+			", ",
+			"\"",
+			"import OpenMetric",
+			"webpack",
+			"function",
+			"vid",
+			"pingClipsMerge",
+			"}",
+			"{",
+			"retrimandmerge",
+			"meteor",
+			"retrim",
+			"\"",
+			"waitForUrlsToBeAvailable",
+			", ",
+			"duration",
+			"}",
+			"{",
+			".video-embedded",
+			"require('../styles",
+			"ensureStylesAreLoaded",
+			"styleTxt",
+			"stylesWrapper",
+			"csso",
+			"componentName",
+			"Container.contextTypes",
+			"window.",
+			"onAuth",
+			"onLogout",
+			"registerAuthCallbacks",
+			"FlowRouter",
+			"kadirahq",
+			"registerAuthCallbacks",
+			"userShouldHaveCompleterRegistration",
+			"54.175.49.91",
+			"mergeStyle",
+			"_mergeStyle",
+			"juice",
+			"require.ensure",
+			"mergeStyle",
+			"_mergeStyle",
+			".content",
+			"response",
+			"Meteor.http.get",
+			"_mergeStyle",
+			"Meteor.http",
+			"mergeStyle",
+			"from 'meteor",
+			"\"",
+			"}",
+			"{",
+			"mergeStyle",
+			"_id",
+			"}",
+			"{",
+			"sendNotificationEmail",
+			"sendEmailNotification",
+			"sendNotificationEmail",
+			"8px 10px 0 0;",
+			"FlowRouter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"userHasCompletedRegistration",
+			"'client/lib/analytics.jsx",
+			"client/lib/analytics.jsx",
+			"USER_HAS_SIGNED_IN",
+			"import { fieldDescriptions }",
+			"helpers/accounts-base.js",
+			"userHasCompletedAuthentification",
+			"import composer from 'client/lib/composer.jsx';",
+			"http://static.cdn.mettavr.com",
+			"fake-data/users",
+			"customUsername",
+			"./analytics.jsx",
+			"shared/analytics.jsx",
+			"shared",
+			"lib",
+			"normalizedMarkup.substring(diffIndex - 400, diffIndex + 400) + '\\n (server) ' + rootMarkup.substring(diffIndex - 400, diffIndex + 400)",
+			"normalizedMarkup.substring(diffIndex - 100, diffIndex + 100) + '\\n (server) ' + rootMarkup.substring(diffIndex - 100, diffIndex + 100);",
+			"import VideoMain from './VideoMain.jsx';",
+			"deviceInfo.safari",
+			"deleteReply",
+			"//static.cdn.mettavr.com",
+			"cdn.mettavr.com",
+			"updateVideo",
+			"getStateToBeSaved",
+			"Meteor.isClient && window.logs",
+			"window.logs && Meteor.isClient",
+			"/video-view/",
+			"showWaitlist",
+			"meteor/gsabran:dochead",
+			"import {Counts} from 'meteor/tmeasday:publish-counts';",
+			"setUpRedirectRoutes",
+			"kadira:flow-router-ssr",
+			"gsabran:flow-router-ssr",
+			"meteor/kadira:flow-router-ssr'",
+			"server_and_client",
+			"u_filter_type",
+			"u_color_offset",
+			"u_color_transformation",
+			"addVideoTitle",
+			"3003"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								544,
+								544
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "f20925ab",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"bs_sintax": "json",
+							"buffer_scroll_name": "be4f7cd7",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "2ec25c60",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
