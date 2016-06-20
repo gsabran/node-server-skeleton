@@ -1,7 +1,9 @@
+'use strict';
+
 module.exports = {
   load: (app) => {
     app.get('/ping', (req, res, next) => {
-      res.end('pong');
+      res.respond(null, { pong: 'pong' });
     });
   },
 };
